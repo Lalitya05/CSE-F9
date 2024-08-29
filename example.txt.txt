@@ -1,0 +1,7 @@
+git commands
+git init
+git status
+
+git add filename
+git commit -m "commiting two files"
+git push
